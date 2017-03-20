@@ -2,9 +2,9 @@
 
 stylish modern and flat Notification view that is very simple to integrate and very easy to use. 
 
-![alt tag](Simulator Screen Shot Mar 21, 2017, 12.31.07 AM.png)
-![alt tag](Simulator Screen Shot Mar 21, 2017, 12.30.35 AM.png)
-![alt tag](Simulator Screen Shot Mar 21, 2017, 12.29.48 AM.png)
+![alt tag](https://github.com/ahegazi18/Kiwi-Notification-View/blob/master/Simulator%20Screen%20Shot%20Mar%2021%2C%202017%2C%2012.31.07%20AM.png)
+![alt tag](https://github.com/ahegazi18/Kiwi-Notification-View/blob/master/Simulator%20Screen%20Shot%20Mar%2021%2C%202017%2C%2012.30.35%20AM%20copy.png)
+![alt tag](https://github.com/ahegazi18/Kiwi-Notification-View/blob/master/Simulator%20Screen%20Shot%20Mar%2021%2C%202017%2C%2012.29.48%20AM%20copy.png)
 
 ## Getting Started
 
