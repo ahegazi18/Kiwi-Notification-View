@@ -53,4 +53,4 @@ enum kiwiStates : Int {
 2. adding icons to the view.
 3. documentation
 
-please feel free to open or report issues also, let me know if you used it ;)
+please feel free to open an issue if you find one or want something to be added also, let me know if you used it ;)
